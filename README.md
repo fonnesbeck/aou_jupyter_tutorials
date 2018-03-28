@@ -1,4 +1,7 @@
-# aou_jupyter_tutorials
+# AOU? Jupyter Tutorials
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fonnesbeck/aou_jupyter_tutorials/master)
+
 Jupyter tutorials for All of Us workbench users
 
 ## Software Requirements
@@ -37,12 +40,17 @@ This will create an **environment** called `jupyter_tutorial` that includes the 
 - scipy
 - seaborn  
 ​    
+
 If you are not using the Anaconda Python distribution, you will need to manually install the packages listed in `environment.yml` using `pip`.
 
-Which you probably don't want to do.
-
-So install Anaconda.
+Which you probably don't want to do. So install Anaconda.
 
 To use the environment, you may type:
 
     source activate jupyter_tutorial
+
+> Windows users can leave off the `source` command from the above, and just call `activate jupyter_tutorial`
+
+This will activate the environment and make all of the packages installed above available to you. It can subsequently be deactivated via:
+
+    source deactivate
