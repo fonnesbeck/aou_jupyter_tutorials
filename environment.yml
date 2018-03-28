@@ -1,0 +1,16 @@
+name: jupyter_tutorial
+dependencies:
+- python=3.6
+- ipython
+- ipywidgets
+- jupyter
+- line_profiler
+- matplotlib
+- notebook
+- numpy
+- pandas
+- pip
+- pyzmq
+- scipy
+- seaborn  
+

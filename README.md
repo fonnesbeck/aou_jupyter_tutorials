@@ -1,4 +1,4 @@
-# AOU? Jupyter Tutorials
+# AOU Jupyter Tutorials
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fonnesbeck/aou_jupyter_tutorials/master)
 
