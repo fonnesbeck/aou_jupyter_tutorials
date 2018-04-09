@@ -11,6 +11,7 @@ dependencies:
 - pandas
 - pip
 - pyzmq
+- rpy2
 - scipy
 - seaborn  
 
