@@ -10,6 +10,7 @@ dependencies:
 - numpy
 - pandas
 - pip
+- pymc3
 - pyzmq
 - rpy2
 - scipy
